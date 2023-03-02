@@ -1,0 +1,27 @@
+.gameboard{
+    border: solid gray;
+    height: 42vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.playerOne{
+    border: solid gray;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.playerTwo{
+    border: solid gray;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    text-align: center;
+}
+.btnHolder{
+  display: flex;
+  justify-content: space-between;
+
+}
